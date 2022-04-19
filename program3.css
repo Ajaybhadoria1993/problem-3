@@ -1,0 +1,83 @@
+.flex-container{
+    display: flex;
+    padding: 0%;
+    border: 0ch;
+    margin: 0%;
+    margin-left: 23%;
+    margin-top: 5%;
+
+}
+.flex-container,.first,img{
+height: 300px;
+width: 250px;
+
+border-style: groove;
+}
+
+
+.flex-container1,.second{
+    padding: 0%;
+    border: 0ch;
+    margin-left: 10%;
+    
+
+}
+.brief{
+    display: inline;
+    width: 0%;
+    
+}
+.flex-container2,.brief,h5{
+    
+    padding: 0%;
+
+    /* margin: 0%; */
+    width: 120px;
+    height: 0%;
+    margin: left 40px; ;
+}
+.c{
+    width: 140px;
+    display: inline;
+    padding: 0%;
+    height: 14%;
+}
+.d{
+    width: 465px;
+    height: 23%;
+}
+.e{
+    width: 0%;
+    display: flex;
+}
+.e,h6{
+    width: 43%;
+    height: 19%;
+}
+
+.f{
+  
+    
+    height: 0%;
+    width: 92%;
+    padding: 0%;
+    margin-top: 3%;
+}
+.btn{
+   
+    display: flex;
+    padding: 3%;
+    margin: -6%;
+    height: -11%;
+    width: 42%;
+    margin-top: 3%;
+   
+}
+.rdobtn{
+    display: flex;
+    align-items: center
+}
+
+.ajbtn{
+    margin: 6px;
+}
